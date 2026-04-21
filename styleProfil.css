@@ -72,7 +72,7 @@ body{
     margin-top:100px;
 }
 
-.cta button{
+.cta a{
     background:#2a7de1;
     color: rgb(227, 247, 250);
     border:none;
@@ -82,7 +82,7 @@ body{
     cursor:pointer;
 }
 
-.cta button:hover{
+.cta a:hover{
     background:#1f5099;
 }
 
