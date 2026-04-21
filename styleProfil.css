@@ -73,6 +73,7 @@ body{
 }
 
 .cta a{
+    display:inline_block;
     background:#2a7de1;
     color: rgb(227, 247, 250);
     border:none;
